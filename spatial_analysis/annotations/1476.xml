@@ -1,0 +1,26 @@
+<annotation>
+    <folder>data</folder>
+    <filename>1476.tif</filename>
+    <path>C:\Users\SIU856532690\Documents\yolov5\Yolov5\env\yolov5\CA\data\1476.tif</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>True</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>311</xmin>
+            <ymin>102</ymin>
+            <xmax>411</xmax>
+            <ymax>202</ymax>
+        </bndbox>
+    </object>
+</annotation>
